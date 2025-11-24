@@ -1,15 +1,15 @@
 export const skillCategories = [
   {
-    id: 'programming',
-    emoji: '🖥️',
-    label: 'Programming & Scripting',
-    skills: ['JavaScript', 'TypeScript', 'Dart', 'Python', 'HTML5', 'CSS3']
-  },
-  {
     id: 'frameworks',
     emoji: '⚙️',
     label: 'Frameworks & Libraries',
     skills: ['React.js', 'Node.js', 'Express.js', 'Flutter', 'Django REST Framework', 'Vite.js', 'Tailwind CSS']
+  },
+  {
+    id: 'programming',
+    emoji: '🖥️',
+    label: 'Programming & Scripting',
+    skills: ['JavaScript', 'TypeScript', 'Dart', 'Python', 'HTML5', 'CSS3']
   },
     {
     id: 'devtools',
