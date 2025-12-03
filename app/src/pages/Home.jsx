@@ -40,7 +40,7 @@ export default function Home(){
           <div className="md:col-span-5 flex justify-center">
             <div className="relative w-56 h-56 sm:w-64 sm:h-64 md:w-72 md:h-72">
               <div className="absolute inset-0 rounded-2xl bg-gradient-to-br from-white/10 to-white/0 border border-white/20 shadow-glow"></div>
-              <img src="/assets/images/profile.svg" alt="Portrait" className="relative z-10 w-full h-full object-cover rounded-2xl"/>
+              <img src="/assets/images/profile.jpg" alt="Portrait" className="relative z-10 w-full h-full object-cover rounded-2xl"/>
               <div className="absolute -inset-4 -z-10 bg-[conic-gradient(from_90deg_at_50%_50%,rgba(255,255,255,0.06),transparent_70%)] blur-2xl rounded-full"></div>
             </div>
           </div>
