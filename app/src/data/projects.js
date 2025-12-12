@@ -13,7 +13,6 @@ export const projects = {
     title: 'Fohormalai – Smart Waste Management System',
     desc: 'Multi-platform waste collection, marketplace, and analytics across Flutter, Django REST, and React Admin.',
     img: 'https://res.cloudinary.com/davmrc5zy/image/upload/v1763480089/logo-fohormalai_ckknik.svg',
-    repo: 'https://github.com/0-nikesh/fohormalai', 
     live: '', // Live site link here (optional)
     figma: 'https://www.figma.com/file/fEZyAZ4bqgSsYIpfzgwZ4f/Fohormalai', 
     youtubeUrl: 'https://www.youtube.com/watch?v=D90E6OWJYaw', 
