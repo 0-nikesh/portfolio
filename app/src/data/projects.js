@@ -51,7 +51,7 @@ export const projects = {
     img: '/assets/images/prabhuhost.png',
     repo: 'https://github.com/0-nikesh/new-prabhuhost',
     live: 'https://www.prabhuhost.com/',
-    figma: 'https://www.figma.com/design/10HWTvwlGB5lM9OIjwXHJh/PrabhuHost?node-id=247-169&t=cOiDCVakSHwgIgGG-1',
+    // figma: 'https://www.figma.com/design/10HWTvwlGB5lM9OIjwXHJh/PrabhuHost?node-id=247-169&t=cOiDCVakSHwgIgGG-1',
     instagramUrl:'https://www.instagram.com/prabhuhostnp/',
     // youtubeUrl: '',
     // youtubeId: '',
